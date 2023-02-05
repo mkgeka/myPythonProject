@@ -10,5 +10,5 @@ def check(row_start:int, row_end:int, column_start:int, column_end:int) -> List[
     pass
     return list
 
-output = check(1,4,3,7)
+output = check(2,4,3,7)
 print(output)
